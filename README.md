@@ -1,1 +1,1 @@
-# practica_curso
+Estas son mis practicas del curso
